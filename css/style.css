@@ -1221,3 +1221,22 @@
 			{
 				text-align: center;
 			}
+
+	ul#styleList{
+        padding: 0;
+	}
+
+    ul#styleList li {
+        display: inline;
+    }
+
+    ul#styleList a {
+        color: black;
+        padding: 10px 20px;
+        text-decoration: none;
+     }
+
+    ul#styleList a:hover {
+      background-color: #483949;
+      color: white;
+    }
