@@ -1,7 +1,7 @@
 # ExploreMyanmar
 Projet de MA
 
-Vision du produit :
+  Description du produit : ExploreMyanmar est un guide touristique concernant la Birmanie.
 
   Objectif : Augmentation de la fréquence des visites des sites touristiques de Birmanie par les français.
   Contexte : Le gouvernement birman investit dans la promotion du tourisme auprès des français. 
